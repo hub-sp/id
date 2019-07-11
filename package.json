@@ -1,0 +1,20 @@
+{
+  "name": "@yaas/id",
+  "version": "1.0.0",
+  "description": "An id generator",
+  "main": "index.js",
+  "repository": "github:hub-sp/id",
+  "scripts": {
+    "test": "node test"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "id",
+    "shortid",
+    "id-generator"
+  ],
+  "author": "Sam Price <gdkoco1@gmail.com>",
+  "license": "MIT"
+}
